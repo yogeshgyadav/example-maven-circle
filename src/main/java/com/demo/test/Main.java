@@ -1,12 +1,10 @@
-package com.blackducksoftware.test;
+package com.demo.test;
 
 import java.util.Arrays;
 
 /**
  * Demo class showing compilation of repository source
  *
- * @author romeara
- * @since 0.1
  */
 public class Main {
 
